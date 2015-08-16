@@ -1,2 +1,2 @@
 # ubicall.test
-this hust a test for using github
+this is just a test for using github
